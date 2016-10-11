@@ -1,0 +1,21 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+################################################
+# Don't want to include Unreal starter content #
+# for this particular project                  #
+################################################
+DungeonEscape/Content/StarterContent/
+
+################################################
+# Ignore Visual Studio Generated database file #
+################################################
+*.VC.db
+
+DungeonEscape/Intermediate/
