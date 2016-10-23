@@ -18,3 +18,6 @@ DungeonEscape/Content/StarterContent/
 ################################################
 *.VC.db
 
+DungeonEscape/Content/InfinityBladeEffects/
+DungeonEscape/Content/InfinityBladeGrassLands/
+DungeonEscape/Content/InfinityBladeWeapons/
